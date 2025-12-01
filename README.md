@@ -1,8 +1,8 @@
 <h2 align="left">Hi Civillians👋! My name is Jovan Aditya and I'm a Frontend Developer, from Indonesia</h2>
 
 ###
-
-
+- 🔭 I’m currently working on Online Travel Agent Website on my Internship
+- 🌱 I’m currently learning [***Go***](https://go.dev/doc/)
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
