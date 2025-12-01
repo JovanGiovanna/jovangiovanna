@@ -3,11 +3,6 @@
 ###
 - 🔭 I’m currently working on Online Travel Agent Website on my Internship
 - 🌱 I’m currently learning [***Go***](https://go.dev/doc/)
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
