@@ -1,4 +1,7 @@
-<h2 align="left">Hi Civillians👋! My name is Jovan Aditya and I'm a Frontend Developer, from Indonesia</h2>
+<h2 align="left">Hi Civillians👋! I'm a Frontend Developer, from Indonesia</h2>
+
+![Jovan Aditya](img/github-header-banner.png)
+
 
 ###
 - 🔭 I’m currently working on Online Travel Agent Website on my Internship
