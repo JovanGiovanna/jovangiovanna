@@ -1,4 +1,4 @@
-## Hi there Im Jovan Aditya 👋
+## Hello, civilians
 
 ![Jovan Aditya](img/github-header-banner.png)
 <!--
@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white
 "/>
 
-
 ##### Connect With Me
-
 
 ![jovanaditya385](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 ) ![jovanaditya385](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
